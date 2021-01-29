@@ -11,7 +11,7 @@ This is a PyTorch implementation of the paper:
 [Bingyi Kang](https://scholar.google.com.sg/citations?user=NmHgX-wAAAAJ&hl=en), [Yu li], [Zehuan Yuan](https://shallowyuan.github.io/), [Jiashi Feng](https://sites.google.com/site/jshfeng/)  
 [[OpenReview](https://openreview.net/forum?id=OqtLIabPTit)]
 [[Arxiv]()]
-[[PDF]()] 
+[[PDF]()]  
 _International Conference on Learning Representations (ICLR), 202_
 
 ```
@@ -22,6 +22,7 @@ _International Conference on Learning Representations (ICLR), 202_
   year={2021},
   url={https://openreview.net/forum?id=OqtLIabPTit}
 }
+```
 
 
 
