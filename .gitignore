@@ -1,0 +1,5 @@
+notes*
+.vscode*
+*pyc
+tmp.sh
+idle.py
